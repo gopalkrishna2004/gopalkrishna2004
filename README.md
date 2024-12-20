@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=gopalkrishna2004)
 
 [![An image of @gopalkrishna2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gopalkrishna2004)](https://holopin.io/@gopalkrishna2004)
 <!--
